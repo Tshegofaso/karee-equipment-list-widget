@@ -1,0 +1,6 @@
+{
+  "outdoorLabel": "Outdoor Equipment",
+      "indoorLabel": "Indoor Equipment",
+      "outdoorLinkField": "GlobalID",
+      "indoorLinkField": "GUID"
+    }
