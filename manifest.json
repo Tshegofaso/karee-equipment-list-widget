@@ -2,7 +2,7 @@
     "name": "karee-equipment-list",
     "label": "Karee Equipment List",
     "type": "widget",
-                                  "version": "1.20.11",
+                                      "version": "1.20.12",
     "exbVersion": "1.20.0",
     "author": "BGQS Consulting Pty Ltd",
     "description": "Card-style list widget that merges Outdoor Equipment (feature layer) and Indoor Equipment (related table) into one searchable, filterable list, with map interactivity via message actions.",
@@ -12,7 +12,8 @@
           "hasConfig": true
     },
     "publishMessages": [
-          "DATA_RECORDS_SELECTION_CHANGE"
+          "DATA_RECORDS_SELECTION_CHANGE",
+                "DATA_SOURCE_FILTER_CHANGE"
     ],
     "translatedLocales": [
           "en"
